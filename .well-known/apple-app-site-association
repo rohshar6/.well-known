@@ -1,0 +1,28 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "GMSGY63W5S.com.hdfc.payzapp.lzuat",
+        "paths": [
+          "/payzapp",
+          "/payzapp/*"
+        ]
+      },
+      {
+        "appID": "GMSGY63W5S.com.hdfc.payzapp.prodlz",
+        "paths": [
+          "/payzapp",
+          "/payzapp/*"
+        ]
+      },
+      {
+        "appID": "W4NK847LUM.com.hdfcbank.payzapp",
+        "paths": [
+          "/payzapp",
+          "/payzapp/*"
+        ]
+      }
+    ]
+  }
+}
